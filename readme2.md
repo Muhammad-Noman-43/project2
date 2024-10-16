@@ -1,0 +1,2 @@
+# Description
+This is git repository that was created within the local machine and then pushed to GitHub for demo and learning purpose.
